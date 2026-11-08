@@ -449,51 +449,43 @@ For hackathon judges, a one-click **Demo Admin Login** is available directly in 
 > Replace the placeholder blocks below with actual screenshots before final submission.
 
 ### Home Feed & Hero Section
-```
-[ Screenshot: Home Feed — Featured Artists, Upcoming Events Banner, Language Toggle ]
-```
+<img width="1917" height="1026" alt="image" src="https://github.com/user-attachments/assets/fb21aecd-a72b-417b-8105-4b145bb2e1df" />
+
+
 
 ### Artform Catalog — Living Encyclopedia
-```
-[ Screenshot: Artform Catalog grid with Kathakali, Panchavadyam, Pulikali cards, bilingual labels ]
-```
+
+<img width="1915" height="1025" alt="image" src="https://github.com/user-attachments/assets/7355e43a-3855-4f2b-ba5f-4b5cb3150230" />
+
+
 
 ### Interactive Thrissur Map
-```
-[ Screenshot: Leaflet map of Thrissur with cultural marker pins, category filter pills active ]
-```
+
+<img width="1915" height="1017" alt="image" src="https://github.com/user-attachments/assets/cbb42be3-b524-4884-9e62-f356f20b1b71" />
+
+
 
 ### Artist Directory & Profile Page
-```
-[ Screenshot: Artist Directory grid with verification badges, search bar, taluk filter ]
-[ Screenshot: Individual Artist Profile — gallery, lineage, Inquiry CTA button ]
-```
+<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/eae8b36e-e8cf-450a-afb4-6b0960036866" />
+
+
 
 ### Artist Studio Dashboard
-```
-[ Screenshot: Artist Dashboard — artwork upload modal, portfolio management, workshop creator ]
-```
+
+<img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/980ba239-0323-4590-ba79-07eeba5eb60c" />
+
 
 ### Events Discovery & Pooram Schedule
-```
-[ Screenshot: Cultural Events calendar with upcoming Pooram listing and Melam lineup details ]
-```
+<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/c53fbfc7-411f-4500-b185-5aa36a21847e" />
+
 
 ### Heritage Explorer
-```
-[ Screenshot: Heritage Explorer — Vadakkunnathan Temple card with visiting hours and dress code ]
-```
+<img width="1916" height="1020" alt="image" src="https://github.com/user-attachments/assets/07ebf324-cd86-4338-b5aa-3e0bb4b74255" />
+
 
 ### Community Showcase
-```
-[ Screenshot: Community Showcase multi-image gallery with like counts and category filters ]
-```
+<img width="1916" height="1028" alt="image" src="https://github.com/user-attachments/assets/a7d0da51-7e7a-4286-aaab-c6b2c99bab97" />
 
-### Admin / Curator Dashboard
-```
-[ Screenshot: Admin Dashboard — Moderation Queue with pending submissions, approve/reject controls ]
-[ Screenshot: Moderation Audit Log with timestamped action history ]
-```
 
 ### Mobile Responsive View
 ```
@@ -509,10 +501,10 @@ For hackathon judges, a one-click **Demo Admin Login** is available directly in 
 
 | Name | Role | Contribution |
 |---|---|---|
-| `[Team Member 1 — LEYA JAMES| 
-| `[Team Member 2 — HRISHIKESH T M | 
-**Institution / College:** `[Your institution name]`
-**Team Name:** `[Your team name, if applicable]`
+| LEYA JAMES | LEADER,CODEVELOPER | Project ideation, initial concept development, defining project direction, initial development prompts, feature planning, idea presentation and preparation of the project presentation (PPT). |
+| HRISHIKESH T M | TECHNICAL LEAD, CODEVELOPER | Website development, interface design and refinement, visual asset correction, interactive cultural map enhancement, feature integration, technical improvements and deployment.|
+**Institution / College:** CHRIST COLLEGE OF ENGINEERING
+**Team Name:** VARNIKA
 **Hackathon:** ART/CODE 2026
 
 ---
