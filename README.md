@@ -509,11 +509,8 @@ For hackathon judges, a one-click **Demo Admin Login** is available directly in 
 
 | Name | Role | Contribution |
 |---|---|---|
-| `[Team Member 1 — Name]` | `[Role, e.g. Full-Stack Developer]` | `[e.g. Core architecture, Supabase integration, ArtformCatalog, InteractiveMap]` |
-| `[Team Member 2 — Name]` | `[Role, e.g. Frontend Developer & UI Designer]` | `[e.g. Design system, Tailwind theme, ArtistDirectory, ArtistDashboard, Framer Motion animations]` |
-| `[Team Member 3 — Name]` | `[Role, e.g. Backend Developer & DB Architect]` | `[e.g. Supabase schema, RLS policies, seed data, storage pipeline, AdminDashboard]` |
-| `[Team Member 4 — Name]` | `[Role, e.g. Cultural Researcher & Content Lead]` | `[e.g. Artform taxonomy, bilingual content (Malayalam translations), cultural accuracy review]` |
-
+| `[Team Member 1 — LEYA JAMES| 
+| `[Team Member 2 — HRISHIKESH T M | 
 **Institution / College:** `[Your institution name]`
 **Team Name:** `[Your team name, if applicable]`
 **Hackathon:** ART/CODE 2026
