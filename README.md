@@ -486,18 +486,7 @@ For hackathon judges, a one-click **Demo Admin Login** is available directly in 
 ### Community Showcase
 <img width="1916" height="1028" alt="image" src="https://github.com/user-attachments/assets/a7d0da51-7e7a-4286-aaab-c6b2c99bab97" />
 
-
-### Mobile Responsive View
-```
-[ Screenshot: Mobile bottom navigation bar — Home, Map, Upload FAB, Artists, Events tabs ]
-```
-
----
-
 ## 10. Team Members
-
-> [!NOTE]
-> Replace the placeholders below with actual team member details before final submission.
 
 | Name | Role | Contribution |
 |---|---|---|
@@ -507,7 +496,7 @@ For hackathon judges, a one-click **Demo Admin Login** is available directly in 
 **Team Name:** VARNIKA
 **Hackathon:** ART/CODE 2026
 
----
+
 
 ## 11. Limitations & Future Scope
 
