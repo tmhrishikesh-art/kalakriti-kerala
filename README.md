@@ -445,9 +445,6 @@ For hackathon judges, a one-click **Demo Admin Login** is available directly in 
 
 ## 9. Demonstration Screenshots
 
-> [!NOTE]
-> Replace the placeholder blocks below with actual screenshots before final submission.
-
 ### Home Feed & Hero Section
 <img width="1917" height="1026" alt="image" src="https://github.com/user-attachments/assets/fb21aecd-a72b-417b-8105-4b145bb2e1df" />
 
